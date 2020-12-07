@@ -1,0 +1,7 @@
+### Test Data
+### First Test
+GET http://localhost:8080/totalPrice?productList=0001,0001,0002,0003
+### Third Test
+GET http://localhost:8080/totalPrice?productList=0001,0001,0001
+### Third Test
+GET http://localhost:8080/totalPrice?productList=0002,0002,0003
